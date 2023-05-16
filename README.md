@@ -1,0 +1,2 @@
+# ggcc
+Gastos Comunes
